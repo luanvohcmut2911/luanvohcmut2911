@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @luanvohcmut2911 LuanVo
-- 👀 I’m interested in web app, machine learning, math and so on.
+- 👀 I’m interested in web app, machine learning, cyber security, math and so on.
 - 🌱 I’m currently learning computer science (CS)
 
 <!---
